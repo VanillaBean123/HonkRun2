@@ -15,12 +15,14 @@ public class PlayerMove : MonoBehaviour
 
     void Update()
     {
-        float directionY = Input.GetAxisRaw("Vertical");
-        playerDirection = new Vector2(0, directionY).normalized;
+        if (Input.GetButtonDown("Jump") == true)
+        {
+            rb.gravityScale *= -1;
+        }
     }
 
     void FixedUpdate()
     {
-        rb.velocity = new Vector2(0, playerDirection.y * playerSpeed);
+        
     }
 }
