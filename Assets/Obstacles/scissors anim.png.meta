@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 32c4c232dc63a8f4ab9b79b0d43d2864
+guid: dc203b28ea2c4ab4fbfdcd6f82c4042a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 61
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: duck_run_spritesheet_0
+      name: scissors anim_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 100
-        height: 100
+        width: 105.5
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e6b763174b891a4a91576b71b70b480
-      internalID: -125601002
+      spriteID: bdbcc5f473ba1544e98967b0d3372541
+      internalID: 803961891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: duck_run_spritesheet_1
+      name: scissors anim_1
       rect:
         serializedVersion: 2
-        x: 100
+        x: 105
         y: 0
-        width: 100
-        height: 100
+        width: 105.5
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 208d083a8df8d5d4cad713924a0fd399
-      internalID: 1998540634
+      spriteID: f38642e26189b0247bee3afd820de7ac
+      internalID: 268943222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: duck_run_spritesheet_2
+      name: scissors anim_2
       rect:
         serializedVersion: 2
-        x: 200
+        x: 210
         y: 0
-        width: 100
-        height: 100
+        width: 105.5
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5d3b23447853444dba2227d78cfa1e1
-      internalID: -2016041338
+      spriteID: ff505944cf4721a408eff44a2a8b3fe5
+      internalID: 56036933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: duck_run_spritesheet_3
+      name: scissors anim_3
       rect:
         serializedVersion: 2
-        x: 300
+        x: 315
         y: 0
-        width: 100
-        height: 100
+        width: 105.5
+        height: 102
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,29 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 871bf09d3640ce749b8b0f60fbcc3020
-      internalID: -224010511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: duck_run_spritesheet_4
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 0
-        width: 100
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6cd0f07be68e9b54d883f8abe7181879
-      internalID: 1222092919
+      spriteID: c135c250054f1c043a6d5a4fd971ca32
+      internalID: 1937723390
       vertices: []
       indices: 
       edges: []
@@ -212,11 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      duck_run_spritesheet_0: -125601002
-      duck_run_spritesheet_1: 1998540634
-      duck_run_spritesheet_2: -2016041338
-      duck_run_spritesheet_3: -224010511
-      duck_run_spritesheet_4: 1222092919
+      scissors anim_0: 803961891
+      scissors anim_1: 268943222
+      scissors anim_2: 56036933
+      scissors anim_3: 1937723390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
