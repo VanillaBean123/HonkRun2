@@ -1,20 +1,17 @@
 
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class RestartGame : MonoBehaviour
+public class Retry : MonoBehaviour
 {
+    // Update is called once per frame
     void Update()
     {
-        // Check if the space bar is pressed
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetButtonDown("Jump") == true)
         {
-            Debug.Log("Space bar pressed. Restarting game...");
-            // Get the current active scene
-            Scene currentScene = SceneManager.GetActiveScene();
-            Debug.Log("Current scene: " + currentScene.name);
-            // Reload the current scene
-            SceneManager.LoadScene(currentScene.name);
+            SceneManager.LoadScene("SampleScene");
         }
     }
 }
