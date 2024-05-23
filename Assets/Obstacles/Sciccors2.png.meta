@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dc203b28ea2c4ab4fbfdcd6f82c4042a
+guid: 8d9b45f42c0edb24a85e9e8baefbc262
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 40
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: scissors anim_0
+      name: Sciccors2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdbcc5f473ba1544e98967b0d3372541
-      internalID: 803961891
+      spriteID: 36ba35f4f90286746a0dacb2724ad6f8
+      internalID: 1538075169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: scissors anim_1
+      name: Sciccors2_1
       rect:
         serializedVersion: 2
         x: 105
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f38642e26189b0247bee3afd820de7ac
-      internalID: 268943222
+      spriteID: 54ac489095707e54a92fb379f54e481e
+      internalID: 1045017125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: scissors anim_2
+      name: Sciccors2_2
       rect:
         serializedVersion: 2
         x: 210
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff505944cf4721a408eff44a2a8b3fe5
-      internalID: 56036933
+      spriteID: a85ef60b0d7127c45bbadd9dec57caa4
+      internalID: -1331522595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: scissors anim_3
+      name: Sciccors2_3
       rect:
         serializedVersion: 2
         x: 315
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c135c250054f1c043a6d5a4fd971ca32
-      internalID: 1937723390
+      spriteID: 1555252b676dcca4d8d8d34eaad4ccb2
+      internalID: 433405648
       vertices: []
       indices: 
       edges: []
@@ -191,10 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      scissors anim_0: 803961891
-      scissors anim_1: 268943222
-      scissors anim_2: 56036933
-      scissors anim_3: 1937723390
+      Sciccors2_0: 1538075169
+      Sciccors2_1: 1045017125
+      Sciccors2_2: -1331522595
+      Sciccors2_3: 433405648
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
