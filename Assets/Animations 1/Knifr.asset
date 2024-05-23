@@ -14,9 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_AnimatedSprites:
   - {fileID: 563981859, guid: e69ae028491c0d84c86cbae0825cae8c, type: 3}
-  m_MinSpeed: 1
-  m_MaxSpeed: 1
+  - {fileID: 563981859, guid: e69ae028491c0d84c86cbae0825cae8c, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
   m_AnimationStartTime: 0
   m_AnimationStartFrame: 0
-  m_TileColliderType: 0
+  m_TileColliderType: 1
   m_TileAnimationFlags: 0
